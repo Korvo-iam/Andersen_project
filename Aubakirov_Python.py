@@ -1,5 +1,3 @@
-
-
 def first_input():
     print("Please, type a number ")
     Val1 = input()
